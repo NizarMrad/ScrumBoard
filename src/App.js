@@ -1,5 +1,5 @@
 import React from "react";
-import "./assets/style.css";
+import "./App.css";
 
 import StoryCreation from "./components/StoryCreation";
 
